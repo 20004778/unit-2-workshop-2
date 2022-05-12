@@ -180,6 +180,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ### OUTPUT:
+![image](https://user-images.githubusercontent.com/75235334/165478430-1e701798-3ed5-4375-b188-6ce98dfd792f.png)
+![image](https://user-images.githubusercontent.com/75235334/165478478-58074ee8-0a68-4ae3-b07d-c9c59f32f28a.png)
 
 ### RESULT:
 Thus a Simple Android Application add contact list using intent Android Studio is developed and executed successfully.
